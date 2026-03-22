@@ -1,0 +1,3 @@
+type,users,conversions,revenue,revenue_per_conversion
+A,5009,630,39281.27,62.35
+B,5191,850,56308.95,66.25
