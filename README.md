@@ -54,25 +54,6 @@ Conducted two-sample t-test for conversion rates. Calculated confidence interval
 3. Visualization and Reporting (Power BI)
 Developed interactive dashboard with four views: Executive Summary, Behavioral Analysis, Segment Analysis, and A/B Testing Overview.
 
-Project Structure
-
-A-B-testing/
-├── Raw data files/
-│   ├── conversions.csv
-│   ├── experiment_assignment.csv
-│   ├── revenue_dist.csv
-│   ├── sessions.csv
-│   ├── users.csv
-│   └── Test_table.txt
-├── Excel analysis-Hypothesis Testing.csv
-├── Dashboard_A-B.pbix
-└── Screenshots/
-    ├── Behavioral Analysis.png
-    ├── Executive Summary(a-b analysis).png
-    ├── Segment Analysis.png
-    ├── Excel Analysis (hypothesis testing).png
-    ├── sql_tables_creation_for_tests.png
-    └── table_star_schema.png
 
 Recommendations
 
